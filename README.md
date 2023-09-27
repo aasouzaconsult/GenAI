@@ -7,4 +7,4 @@ Para requisitar seu e-book de prompts para analista de dados, ou pessoas de dado
 	- E comente neste Post: **Eu quero!**
 
 ## Prompt para Plano de Estudo
-- [Plano de Estudo SQL]()
+- [Plano de Estudo SQL](https://github.com/aasouzaconsult/GenAI/blob/main/Plano%20de%20Estudo%20-%20sql.md)
